@@ -1,1 +1,2 @@
-# Tadis
+# fullstack
+soma = (a+b)
